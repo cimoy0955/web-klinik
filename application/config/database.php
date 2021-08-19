@@ -97,7 +97,7 @@ $db['default'] = array(
 
 // $db['default'] = array(
 // 	'dsn'	=> '',
-// 	'hostname' => '103.141.148.62',
+// 	'hostname' => '',
 // 	'username' => 'klik',
 // 	'password' => 'klikdb',
 // 	'database' => 'klik-profile',
